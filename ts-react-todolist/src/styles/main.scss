@@ -1,0 +1,20 @@
+body{
+    nav{
+        background-color: #000;
+        a{
+            font-size: 20px;
+            color: #fff;
+            text-decoration: none;
+            margin: auto;
+            &:hover{
+                color: #fff;
+                text-decoration: none;
+            }
+        }
+
+    }
+    .my-container{
+        max-width: 608px;
+        margin: auto;
+    }
+}
