@@ -1,0 +1,1 @@
+- Tutorial de React & Typescript por [Fazt Code](https://www.youtube.com/watch?v=bmZKIMjJTjs)

@@ -1,0 +1,1 @@
+- Curso introductorio a Typescript por [Fazt](https://www.youtube.com/watch?v=Xxqh0RoWxNc)
