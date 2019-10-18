@@ -46,7 +46,7 @@ const mySum = (num1: number | string, num2: number | string): number => {
     return num1 + num2
 }
 
-//el signo de interrogación indica que el parametro es opcional, por lo tanto no da error si al invocar la función se le pasan todos los parámetros
+//el signo de interrogación indica que el parametro es opcional, por lo tanto no da error si al invocar la función no se le pasan todos los parámetros
 const getName = (firstName: string, lastName?: string): string => {
     if(lastName === undefined){
         return firstName
