@@ -32,7 +32,7 @@ let myNull: null = null //o undefined
 let myUndefined: undefined = undefined;
 
 // FUNCIONES
-//se indica qué tipo dato serás los parámetro y qué tipo de dato retornará la función
+//se indica qué tipo datos serán los parámetros y qué tipo de dato retornará la función
 const getSum = (num1: number, num2: number): number => num1 + num2;
 
 const mySum = (num1: number | string, num2: number | string): number => {
